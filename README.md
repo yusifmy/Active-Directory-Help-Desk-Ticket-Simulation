@@ -1,6 +1,4 @@
 # Active-Directory-Help-Desk-Ticket-Simulation
-# Active Directory Help Desk Ticket Simulation (Tickets 1–10)
-
 ## Overview
 
 This lab simulates common Help Desk and Active Directory administration tasks performed in an enterprise environment. The objective was to gain hands-on experience with user account management, security groups, Organizational Units (OUs), and access control within a Windows Active Directory domain.
